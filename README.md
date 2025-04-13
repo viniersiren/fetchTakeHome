@@ -2,7 +2,7 @@
 
 ### Summary: Include screen shots or a video of your app highlighting its features
 
-A video showcasing initial loading is in the main directory called "example", then you can check the screenshots in the same directory.
+A video showcasing initial loading is in the main directory called "Screen Recording", then you can check the screenshots in the same directory.
 
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
