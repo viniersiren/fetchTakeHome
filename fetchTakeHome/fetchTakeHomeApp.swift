@@ -2,7 +2,7 @@
 //  fetchTakeHomeApp.swift
 //  fetchTakeHome
 //
-//  Created by Devin Studdard on 12/21/24.
+//  Created by Devin Studdard on 4/12/25.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct fetchTakeHomeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RecipeListView()
         }
     }
 }
