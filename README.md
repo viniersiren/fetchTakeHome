@@ -2,11 +2,7 @@
 
 ### Summary: Include screen shots or a video of your app highlighting its features
 
-A video showcasing initial loading is in the main directory called "example"
-![IMG_9337](https://github.com/user-attachments/assets/4710bfc1-2cc7-4c83-9d23-90fd7604f5b7/IMG_9337.jpg)
-![IMG_9338](https://github.com/user-attachments/assets/e24f2039-b0bb-4574-b06a-bf6ec9d4cc15/IMG_9338.jpg)
-![IMG_9339](https://github.com/user-attachments/assets/4d49611f-4883-46e6-960a-fdbdeaaa2ebd/IMG_9339.jpg)
-![IMG_9340](https://github.com/user-attachments/assets/6049ae0d-d69c-4a48-bcad-f069ce14f3de/IMG_9340.jpg)
+A video showcasing initial loading is in the main directory called "example", then you can check the screenshots in the same directory.
 
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
